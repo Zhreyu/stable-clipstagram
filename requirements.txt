@@ -1,0 +1,11 @@
+instaloader
+requests
+Pillow
+torch
+transformers
+openai
+python-dotenv
+instagrapi
+tqdm
+diffusers 
+transformers
